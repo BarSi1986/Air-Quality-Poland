@@ -5,7 +5,7 @@
 
 # Live Demo
 
-..in progress
+[find it here](https://barsi1986.github.io/Air-Quality-Poland/).
 
 # Tech Stack
 
