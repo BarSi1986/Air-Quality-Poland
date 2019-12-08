@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Air-Quality-Poland/static/js/main.b15eb5ac.chunk.js",
+    "main.js.map": "/Air-Quality-Poland/static/js/main.b15eb5ac.chunk.js.map",
+    "runtime-main.js": "/Air-Quality-Poland/static/js/runtime-main.7bfbd0ef.js",
+    "runtime-main.js.map": "/Air-Quality-Poland/static/js/runtime-main.7bfbd0ef.js.map",
+    "static/js/2.849cf2ef.chunk.js": "/Air-Quality-Poland/static/js/2.849cf2ef.chunk.js",
+    "static/js/2.849cf2ef.chunk.js.map": "/Air-Quality-Poland/static/js/2.849cf2ef.chunk.js.map",
+    "index.html": "/Air-Quality-Poland/index.html",
+    "precache-manifest.ccd25c9bb937847f0cb1bbe30e4edb0a.js": "/Air-Quality-Poland/precache-manifest.ccd25c9bb937847f0cb1bbe30e4edb0a.js",
+    "service-worker.js": "/Air-Quality-Poland/service-worker.js",
+    "static/media/pollution.jpg": "/Air-Quality-Poland/static/media/pollution.fe68b692.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bfbd0ef.js",
+    "static/js/2.849cf2ef.chunk.js",
+    "static/js/main.b15eb5ac.chunk.js"
+  ]
+}
